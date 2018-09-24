@@ -1,11 +1,16 @@
 _repo: The-American-Printer-A-Manual-of-Typography-Containing-practical-directions-for-managing-all-__56817
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56817-h/images/cover.jpg
 creator:
   author:
     agent_name: MacKellar, Thomas
     gutenberg_agent_id: '49049'
     url: http://www.gutenberg.org/2009/agents/49049
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56817#The-American-Printer-A-Manual-of-Typography-Containing-practical-directions-for-managing-all-_
 gutenberg_issued: '2018-03-23'
 gutenberg_type: Text
 identifiers:
